@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">quiz App</string>
+    <string name="question_8">A literary work in which the characters and events are used as symbols is known as?</string>
+    <string name="Ans_a8">characteristics</string>
+    <string name="Ans_b8">allegory</string>
+    <string name="Ans_c8">metaphor</string>
+    <string name="Ans_d8">parallelism</string>
+    <string name="question_9">Which of the following is true of an electrical charge?</string>
+    <string name="Ans_a9">Positive charge means deficit electrons</string>
+    <string name="Ans_b9">Neutral charge means excess of electrons</string>
+    <string name="Ans_c9">electric current means movement of electrons</string>
+    <string name="Ans_d9">None of the above</string>
+    <string name="question_2">The chairman refused to shake __________ with the secretary?</string>
+    <string name="question_4">I shall find time for my _________ when I get _________with this difficult assignment.</string>
+    <string name="Ans_a4">past-time</string>
+    <string name="Ans_b4">over</string>
+    <string name="Ans_c4">through</string>
+    <string name="Ans_d4">pass-time</string>
+</resources>
